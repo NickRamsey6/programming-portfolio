@@ -1,6 +1,6 @@
 # _Nick Ramsey's Programming Portfolio_
 
-#### _A quick over view of what I have learned so far in Epicodus, vol. 1 1/19/19_
+#### _A quick overview of what I have learned so far in Epicodus, vol. 1 1/19/19_
 
 #### By _**Nick Ramsey**_
 
