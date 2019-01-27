@@ -1,6 +1,3 @@
-h1 {
-  color: red;
-}
 .languages-used {
   font-style: italic;
 }
@@ -11,4 +8,16 @@ h1 {
   margin:12px;
   border: 4px solid red;
   padding: 6px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+h2 {
+  font-size: 32px
+}
+.projects h2 {
+  font-style: italic;
 }
