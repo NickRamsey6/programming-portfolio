@@ -6,7 +6,7 @@
 
 ## Description
 
-_For my first code review, I have prepared a webpage with some links to some of my early projects and background info about my programming goals._
+_For my first code review, I have prepared a webpage with some links to some of my early projects and background info about my programming goals. <a href="https://nickramsey6.github.io/programming-portfolio/">Link Here</a>_
 
 ## Setup/Installation Requirements
 
